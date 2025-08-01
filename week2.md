@@ -124,6 +124,7 @@ https://chatgpt.com/share/68832133-12b4-8002-a9e6-b9747d0f4c1c
 - <img width="599" height="780" alt="2주차1" src="https://github.com/user-attachments/assets/57b2b0f5-f08c-4bdc-985f-6959ecfbd09a" />
 - <img width="681" height="647" alt="2주차2" src="https://github.com/user-attachments/assets/aa8d2cca-5999-4b86-8530-8d0ccb1bd2ea" />
 
+---
 
 ### K026_차희선
 #### [ 퀘스트 3 ] : 길라잡이 때 나오는 피어피드백때 얘깃거리와 전날 미션 정보를 입력하여, 피어 피드백 시간에 토론 거리 만들기
@@ -155,12 +156,13 @@ git status나 git add 명령 실행 시 .gitignore 규칙이 어떻게 파일 �
 
 #### 느낀점
 
-git add 구현 할 때 git ingnore에 대해서는 생각해보지 못했는데 생각보다 add 기능만 해도 생각해야될게 많을 것 같다는 생각이 들었습니다. 또 주제가 어려웠는지 전부 Ai를 통해 가져온 질문을 다시 AI에 답변을 받는다는 점이 재미있었습니다.
+git add 구현 할 때 git ignore에 대해서는 생각해보지 못했는데 생각보다 add 기능만 해도 생각해야될게 많을 것 같다는 생각이 들었습니다. 또 주제가 어려웠는지 전부 Ai를 통해 가져온 질문을 다시 AI에 답변을 받는다는 점이 재미있었습니다.
 
 #### 아쉬웠던 점
 
 AI의 답변에 지나치게 의존해서 내가 생각해볼 기회를 잃었다는 생각이 들었습니다. 또 가끔 맥락과 맞지 않는 답변을 제시하는 경우도 있었다.
 
+---
 
 ### J248_정희재
 
