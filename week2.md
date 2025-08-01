@@ -117,6 +117,13 @@ https://chatgpt.com/share/68832133-12b4-8002-a9e6-b9747d0f4c1c
 #### [ 퀘스트 2 ] : LLM을 이용해 지금까지 수행해온 미션의 학습 내용과 관련해 오늘 기준으로 제일 Star를 많이 받은 git 레포지토리 링크를 출력하기
 #### 선택이유 : 미션 관련하여 더 깊이 학습하고 인사이트를 얻기 위해
 
+- 지난 주 미션에서 함수형 프로그래밍에 대해 학습했지만 아직 부족한 점이 있어서 GPT에게 함수형 프로그래밍 관련 git repository를 추천해달라고 요청했다.
+- GPT가 추천해준 레포중에 https://github.com/getify/Functional-Light-JS 가 유용할 것 같다.
+- 아직 다른 미션들 하느라 정신이 없어서 딥하게 보진못했지만 유용하게 활용할 수 있을 것 같다.
+- 다른 학습 키워드들도 이런 방식으로 챗지피티에게 git 레포를 추천을 요청하여 자료를 찾아서 학습하면 좋을 것 같다.
+- <img width="599" height="780" alt="2주차1" src="https://github.com/user-attachments/assets/57b2b0f5-f08c-4bdc-985f-6959ecfbd09a" />
+- <img width="681" height="647" alt="2주차2" src="https://github.com/user-attachments/assets/aa8d2cca-5999-4b86-8530-8d0ccb1bd2ea" />
+
 
 ### K026_차희선
 #### [ 퀘스트 3 ] : 길라잡이 때 나오는 피어피드백때 얘깃거리와 전날 미션 정보를 입력하여, 피어 피드백 시간에 토론 거리 만들기
