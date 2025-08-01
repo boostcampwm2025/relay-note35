@@ -129,6 +129,39 @@ https://chatgpt.com/share/68832133-12b4-8002-a9e6-b9747d0f4c1c
 #### [ 퀘스트 3 ] : 길라잡이 때 나오는 피어피드백때 얘깃거리와 전날 미션 정보를 입력하여, 피어 피드백 시간에 토론 거리 만들기
 피어 피드백에 들어가기 전, 본인이 수행한 미션에 대해 충분히 고민하는 시간을 가져야 하는데 지금까지 그렇게 하지 못했던 것 같아서 이번 기회를 통해 피어 피드백을 잘 준비해보고 싶다.
 
+#### 미션 선택 이유
+
+피어세션에서 조금 더 많은 이야기를 나눠보고 싶어서 선택하게 되었다.
+
+#### 결과
+
+```
+알겠습니다! 동료들과 Git 클론 프로젝트에 대해 더 심도 있는 대화를 나눌 수 있는 주제들을 추가로 제안해 드릴게요. 이번에는 실제 Git 사용성, 확장성, 그리고 파일 시스템과의 상호작용에 초점을 맞춰볼까요?
+
+추가 논의 주제
+1. .gitignore의 작동 방식과 구현
+주제: Git이 어떻게 특정 파일을 추적하지 않도록 설정하는지, 즉 .gitignore 파일의 역할과 그 내부 작동 원리에 대해 논의해볼 수 있습니다.
+
+논의 포인트:
+
+.gitignore 파일에 정의된 패턴(와일드카드, 예외 규칙 등)을 Git이 어떻게 파싱하고 적용하는가?
+
+git status나 git add 명령 실행 시 .gitignore 규칙이 어떻게 파일 목록에서 제외하는 역할을 하는가?
+
+여러분의 IndexSystem이나 GitManager에서 .gitignore 기능을 구현하려면 어떤 파싱 로직과 필터링 단계가 필요할까? (특히 무시 규칙의 우선순위 문제)
+```
+
+![zoom](https://private-user-images.githubusercontent.com/96712947/473279625-af60620a-d96e-4683-b315-5e815dacd7f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjE0MTMsIm5iZiI6MTc1NDAyMTExMywicGF0aCI6Ii85NjcxMjk0Ny80NzMyNzk2MjUtYWY2MDYyMGEtZDk2ZS00NjgzLWIzMTUtNWU4MTVkYWNkN2Y1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDA0MDUxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5YzI5ZGM2YjFhZWQ0ZmVjNmI1MjA4MjFhYzVhODVjMzUwYzRiYjdmMGVlZDVmZjlmNTUyMWIxNzBkZjU2NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XqDLs1a5x7y1Cabp4z36VmmAp457Q7YyeSxHx3s2EIU)
+
+#### 느낀점
+
+git add 구현 할 때 git ingnore에 대해서는 생각해보지 못했는데 생각보다 add 기능만 해도 생각해야될게 많을 것 같다는 생각이 들었습니다. 또 주제가 어려웠는지 전부 Ai를 통해 가져온 질문을 다시 AI에 답변을 받는다는 점이 재미있었습니다.
+
+#### 아쉬웠던 점
+
+AI의 답변에 지나치게 의존해서 내가 생각해볼 기회를 잃었다는 생각이 들었습니다. 또 가끔 맥락과 맞지 않는 답변을 제시하는 경우도 있었다.
+
+
 ### J248_정희재
 
 #### [ 퀘스트 4 ] : 하루에 한번씩 ***현재 미션을 수행하면서 느낀점이나 어려운 점***을 AI에게 프롬프트로 입력하고, 이에 대한 ***조언이나 학습 팁***을 받아 팀원들과 나누기
